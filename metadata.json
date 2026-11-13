@@ -1,0 +1,6 @@
+{
+  "name": "PrismCraft",
+  "description": "An interactive 3D voxel sandbox featuring procedural biomes, per-vertex ambient occlusion, reflective caustic water, volumetric sun shafts, and real-time GLSL shader packs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
